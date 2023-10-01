@@ -78,12 +78,19 @@
   - title: "Roadmap"
     url: "/roadmap/"
 
+#- title: Blog
+#  url: "/blog/"
+#  side: right
+#  dropdown:
+#  - title: "Blog Archive"
+#    url: "/blog/archive/"
+
 - title: Tentang Kami
-  url: "/blog/"
+  url: "/tentang-kami/"
   side: right
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
+#  dropdown:
+#  - title: "Blog Archive"
+#    url: "/blog/archive/"
 
 - title: Pencarian
   url: "/search/"

@@ -26,14 +26,15 @@
 	</script>
 
 	<noscript>
-		<link href='http://fonts.googleapis.com/css?family=Lato:400,700,400italic%7CVolkhov' rel='stylesheet' type='text/css'>
+		<link href='https://fonts.googleapis.com/css?family=Lato:400,700,400italic%7CVolkhov' rel='stylesheet' type='text/css'>
 	</noscript>
 
 
 	<!-- Search Engine Optimization -->
 	<meta name="description" content="Kami meyakini bahwa teknologi nuklir akan membantu meningkatkan kesejahteraan masyarakat Indonesia melalui penyediaan lapangan kerja, sumber energi bersih, dan peningkatan kompetensi sumber daya manusia di Indonesia">
-  	<meta name="google-site-verification" content="Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ">
+	<meta name="google-site-verification" content="Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ">
 	<meta name="msvalidate.01" content="0FB4C028ABCF07C908C54386ABD2D97F" >
+	
 	<link rel="author" href="https://plus.google.com/u/0/118311555303973066167">
 	
 	
@@ -159,21 +160,10 @@
           
             
             
-
               <li class="divider"></li>
-              <li class="has-dropdown">
-                <a href="http://localhost:4000/blog/">Tentang Kami</a>
+              <li><a href="http://localhost:4000/tentang-kami/">Tentang Kami</a></li>
 
-                  <ul class="dropdown">
-                    
-
-                      
-
-                      <li><a href="http://localhost:4000/blog/archive/">Blog Archive</a></li>
-                    
-                  </ul>
-
-              </li>
+            
             
           
         
