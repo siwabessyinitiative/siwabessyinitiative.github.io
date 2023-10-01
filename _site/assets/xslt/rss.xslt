@@ -130,26 +130,10 @@
           
             
             
-
               <li class="divider"></li>
-              <li class="has-dropdown">
-                <a href="http://localhost:4000/documentation/">Visi Misi</a>
+              <li><a href="http://localhost:4000/visi/">Visi Misi</a></li>
 
-                  <ul class="dropdown">
-                    
-
-                      
-
-                      <li><a href="http://localhost:4000/changelog/">Changelog</a></li>
-                    
-
-                      
-
-                      <li><a href="http://localhost:4000/roadmap/">Roadmap</a></li>
-                    
-                  </ul>
-
-              </li>
+            
             
           
         
@@ -266,7 +250,7 @@
             
 
               <li class="has-dropdown">
-                <a href="http://localhost:4000/design/">Rilis</a>
+                <a href="http://localhost:4000/rilis/">Rilis</a>
 
                   <ul class="dropdown">
                     

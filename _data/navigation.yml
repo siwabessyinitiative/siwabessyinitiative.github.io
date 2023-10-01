@@ -16,7 +16,7 @@
     url: "/wiki/limbah/"
 
 - title: Rilis
-  url: "/design/"
+  url: "/rilis/"
   side: left
   dropdown:
   - title: "Artikel"
@@ -69,14 +69,14 @@
 #  - title: "No Header but Image"
 #    url: "/design/no-header-but-image/"
 #
-- title: Visi Misi
-  url: "/documentation/"
-  side: right
-  dropdown:
-  - title: "Changelog"
-    url: "/changelog/"
-  - title: "Roadmap"
-    url: "/roadmap/"
+#- title: Visi Misi
+#  url: "/documentation/"
+#  side: right
+#  dropdown:
+#  - title: "Changelog"
+#    url: "/changelog/"
+#  - title: "Roadmap"
+#    url: "/roadmap/"
 
 #- title: Blog
 #  url: "/blog/"
@@ -85,12 +85,13 @@
 #  - title: "Blog Archive"
 #    url: "/blog/archive/"
 
+- title: Visi Misi
+  url: "/visi/"
+  side: right
+
 - title: Tentang Kami
   url: "/tentang-kami/"
   side: right
-#  dropdown:
-#  - title: "Blog Archive"
-#    url: "/blog/archive/"
 
 - title: Pencarian
   url: "/search/"
