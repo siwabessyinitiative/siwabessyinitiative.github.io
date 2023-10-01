@@ -1,27 +1,28 @@
-- name: GitHub
-  url: http://github.com/phlow
-  class: icon-github
-  title: Code und mehr...
+- name: Twitter
+  url: https://twitter.com/siwabessy_idn
+  class: icon-twitter
+  title: follow OSIPI on Twitter
 
 - name: YouTube
-  url: http://www.youtube.com/PhlowMedia
+  url: http://www.youtube.com/bicaranuklir
   class: icon-youtube
-  title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
+  title: "Videos YouTube"
 
-- name: Twitter
-  url: http://twitter.com/phlow
-  class: icon-twitter
-  title: "Immer das Neuste von Phlow gibt es auf Twitter"
+- name: Instagram
+  url: http://instagram.com/siwabessy.initiative
+  class: icon-instagram
+  title: ""
 
-- name: Mixcloud
-  url: http://www.mixcloud.com/phlow/
-  class: icon-cloud
-  title: "Mixe, was sonst?"
-
-- name: Phlow YouTube Google+
-  url: https://plus.google.com/u/0/+Phlow
-  class: icon-googleplus
-  title: "YouTube Google+"
+#
+# - name: Mixcloud
+#   url: http://www.mixcloud.com/phlow/
+#   class: icon-cloud
+#   title: "Mixe, was sonst?"
+#
+# - name: Phlow YouTube Google+
+#   url: https://plus.google.com/u/0/+Phlow
+#   class: icon-googleplus
+#   title: "YouTube Google+"
 
 # - name: Facebook
 #   url: http://www.facebook.com/
@@ -31,11 +32,6 @@
 # - name: Soundcloud
 #   url: http://soundcloud.com/
 #   class: icon-soundcloud
-#   title: ""
-
-# - name: Instagram
-#   url: http://instagram.com/
-#   class: icon-instagram
 #   title: ""
 
 # - name: Pinterest
