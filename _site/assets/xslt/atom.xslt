@@ -10,11 +10,11 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Atom Feed (Styled)</title>
 
-    <link rel="stylesheet" type="text/css" href="http://localhost:4000/feeling-responsive/assets/css/styles_feeling_responsive.css">
+    <link rel="stylesheet" type="text/css" href="http://localhost:4000/assets/css/styles_feeling_responsive.css">
 
   
 
-	<script src="http://localhost:4000/feeling-responsive/assets/js/modernizr.min.js"></script>
+	<script src="http://localhost:4000/assets/js/modernizr.min.js"></script>
 
 	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
 	<script>
@@ -31,37 +31,29 @@
 
 
 	<!-- Search Engine Optimization -->
-	<meta name="description" content="»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.">
+	<meta name="description" content="Kami meyakini bahwa teknologi nuklir akan membantu meningkatkan kesejahteraan masyarakat Indonesia melalui penyediaan lapangan kerja, sumber energi bersih, dan peningkatan kompetensi sumber daya manusia di Indonesia">
   	<meta name="google-site-verification" content="Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ">
 	<meta name="msvalidate.01" content="0FB4C028ABCF07C908C54386ABD2D97F" >
 	<link rel="author" href="https://plus.google.com/u/0/118311555303973066167">
 	
 	
-	<link rel="canonical" href="http://localhost:4000/feeling-responsive/assets/xslt/atom.xslt">
+	<link rel="canonical" href="http://localhost:4000/assets/xslt/atom.xslt">
 
 
 	<!-- Facebook Open Graph -->
 	<meta property="og:title" content="Atom Feed (Styled)">
-	<meta property="og:description" content="»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.">
-	<meta property="og:url" content="http://localhost:4000/feeling-responsive/assets/xslt/atom.xslt">
+	<meta property="og:description" content="Kami meyakini bahwa teknologi nuklir akan membantu meningkatkan kesejahteraan masyarakat Indonesia melalui penyediaan lapangan kerja, sumber energi bersih, dan peningkatan kompetensi sumber daya manusia di Indonesia">
+	<meta property="og:url" content="http://localhost:4000/assets/xslt/atom.xslt">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
-	<meta property="og:site_name" content="Feeling Responsive">
-	
-	<meta property="article:author" content="https://www.facebook.com/phlow.media">
-
-
-	
-	<!-- Twitter -->
-	<meta name="twitter:card" content="summary">
-	<meta name="twitter:site" content="phlow">
-	<meta name="twitter:creator" content="phlow">
-	<meta name="twitter:title" content="Atom Feed (Styled)">
-	<meta name="twitter:description" content="»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.">
+	<meta property="og:site_name" content="Siwabessy Initiative">
 	
 	
 
-	<link type="text/plain" rel="author" href="http://localhost:4000/feeling-responsive/humans.txt">
+
+	
+
+	<link type="text/plain" rel="author" href="http://localhost:4000/humans.txt">
 
 	
 
@@ -71,22 +63,22 @@
 
 	<link rel="icon" sizes="192x192" href="http://localhost:4000/assets/img/touch-icon-192x192.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="http://localhost:4000/assets/img/apple-touch-icon-180x180-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="http://localhost:4000/assets/img/si-touch-icon-180x180-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://localhost:4000/assets/img/apple-touch-icon-152x152-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://localhost:4000/assets/img/si-touch-icon-152x152-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://localhost:4000/assets/img/apple-touch-icon-144x144-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://localhost:4000/assets/img/si-touch-icon-144x144-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://localhost:4000/assets/img/apple-touch-icon-120x120-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://localhost:4000/assets/img/si-touch-icon-120x120-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://localhost:4000/assets/img/apple-touch-icon-114x114-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://localhost:4000/assets/img/si-touch-icon-114x114-precomposed.png">
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://localhost:4000/assets/img/apple-touch-icon-76x76-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://localhost:4000/assets/img/si-touch-icon-76x76-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://localhost:4000/assets/img/apple-touch-icon-72x72-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://localhost:4000/assets/img/si-touch-icon-72x72-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" href="http://localhost:4000/assets/img/apple-touch-icon-precomposed.png">	
+	<link rel="apple-touch-icon-precomposed" href="http://localhost:4000/assets/img/si-touch-icon-precomposed.png">	
 
 	<meta name="msapplication-TileImage" content="http://localhost:4000/assets/img/msapplication_tileimage.png">
 
@@ -103,7 +95,7 @@
   <nav class="top-bar" role="navigation" data-topbar>
     <ul class="title-area">
       <li class="name">
-      <h1 class="show-for-small-only"><a href="http://localhost:4000/feeling-responsive" class="icon-tree"> Feeling Responsive</a></h1>
+      <h1 class="show-for-small-only"><a href="http://localhost:4000" class="icon-tree"> Siwabessy Initiative</a></h1>
     </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
       <li class="toggle-topbar menu-icon"><a href="#"><span>Navigation</span></a></li>
@@ -135,17 +127,54 @@
 
           
           
+            
+            
+
+              <li class="divider"></li>
+              <li class="has-dropdown">
+                <a href="http://localhost:4000/documentation/">Visi Misi</a>
+
+                  <ul class="dropdown">
+                    
+
+                      
+
+                      <li><a href="http://localhost:4000/changelog/">Changelog</a></li>
+                    
+
+                      
+
+                      <li><a href="http://localhost:4000/roadmap/">Roadmap</a></li>
+                    
+                  </ul>
+
+              </li>
+            
+          
         
 
               
 
           
           
-        
+            
+            
 
-              
+              <li class="divider"></li>
+              <li class="has-dropdown">
+                <a href="http://localhost:4000/blog/">Tentang Kami</a>
 
-          
+                  <ul class="dropdown">
+                    
+
+                      
+
+                      <li><a href="http://localhost:4000/blog/archive/">Blog Archive</a></li>
+                    
+                  </ul>
+
+              </li>
+            
           
         
 
@@ -156,7 +185,7 @@
             
             
               <li class="divider"></li>
-              <li><a href="http://localhost:4000/feeling-responsive/search/">Search</a></li>
+              <li><a href="http://localhost:4000/search/">Pencarian</a></li>
 
             
             
@@ -170,7 +199,7 @@
             
             
               <li class="divider"></li>
-              <li><a href="http://localhost:4000/feeling-responsive/contact/">Contact</a></li>
+              <li><a href="http://localhost:4000/contact/">Kontak</a></li>
 
             
             
@@ -189,22 +218,7 @@
 
             
             
-              <li><a href="http://localhost:4000/feeling-responsive/">Start</a></li>
-              <li class="divider"></li>
-
-            
-            
-          
-        
-
-              
-
-          
-          
-
-            
-            
-              <li><a href="http://localhost:4000/feeling-responsive/getting-started/">Getting Started</a></li>
+              <li><a href="http://localhost:4000/">Siwabessy Initiative</a></li>
               <li class="divider"></li>
 
             
@@ -221,59 +235,29 @@
             
 
               <li class="has-dropdown">
-                <a href="http://localhost:4000/feeling-responsive/design/">Templates</a>
+                <a href="http://localhost:4000/getting-started/">Wiki Nuklir</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a href="http://localhost:4000/feeling-responsive/design/grid/">Grid &amp; Colors</a></li>
+                      <li><a href="http://localhost:4000/wiki/intro-nuklir">Pengenalan Dasar nuklir</a></li>
                     
 
                       
 
-                      <li><a href="http://localhost:4000/feeling-responsive/design/typography/typography/">Typography</a></li>
+                      <li><a href="http://localhost:4000/wiki/reaktor/">Reaktor Nuklir</a></li>
                     
 
                       
 
-                      <li><a href="http://localhost:4000/feeling-responsive/design/page/">Page/Post</a></li>
+                      <li><a href="http://localhost:4000/wiki/rnr/">Radioisotop dan Radiofarmaka</a></li>
                     
 
                       
 
-                      <li><a href="http://localhost:4000/feeling-responsive/design/post-left-sidebar/">Post-Left-Sidebar</a></li>
-                    
-
-                      
-
-                      <li><a href="http://localhost:4000/feeling-responsive/design/post-right-sidebar/">Post-Right-Sidebar</a></li>
-                    
-
-                      
-
-                      <li><a href="http://localhost:4000/feeling-responsive/design/page-fullwidth/">Page Full-Width</a></li>
-                    
-
-                      
-
-                      <li><a href="http://localhost:4000/feeling-responsive/blog/">Blog-Page</a></li>
-                    
-
-                      
-
-                      <li><a href="http://localhost:4000/feeling-responsive/design/video/">Video</a></li>
-                    
-
-                      
-
-                      <li><a href="http://localhost:4000/feeling-responsive/design/gallery/">Gallery</a></li>
-                    
-
-                      
-
-                      <li><a href="http://localhost:4000/feeling-responsive/design/portfolio/">Portfolio</a></li>
+                      <li><a href="http://localhost:4000/wiki/limbah/">Limbah Nuklir</a></li>
                     
                   </ul>
 
@@ -292,44 +276,29 @@
             
 
               <li class="has-dropdown">
-                <a href="http://localhost:4000/feeling-responsive/headers/">Header Styles</a>
+                <a href="http://localhost:4000/design/">Rilis</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a href="http://localhost:4000/feeling-responsive/design/header-full-width-image/">Header with Full-Width-Image</a></li>
+                      <li><a href="http://localhost:4000/rilis/artikel/">Artikel</a></li>
                     
 
                       
 
-                      <li><a href="http://localhost:4000/feeling-responsive/design/header-image-pattern/">Header with Image and Pattern</a></li>
+                      <li><a href="http://localhost:4000/rilis/featured/">Featured</a></li>
                     
 
                       
 
-                      <li><a href="http://localhost:4000/feeling-responsive/design/header-image-color/">Header with image and color</a></li>
+                      <li><a href="http://localhost:4000/rilis/memo/">Memo Kebijakan</a></li>
                     
 
                       
 
-                      <li><a href="http://localhost:4000/feeling-responsive/design/header-logo-only/">Header Only With Logo</a></li>
-                    
-
-                      
-
-                      <li><a href="http://localhost:4000/feeling-responsive/design/header-with-text/">Header With Text</a></li>
-                    
-
-                      
-
-                      <li><a href="http://localhost:4000/feeling-responsive/design/no-header/">No Header</a></li>
-                    
-
-                      
-
-                      <li><a href="http://localhost:4000/feeling-responsive/design/no-header-but-image/">No Header but Image</a></li>
+                      <li><a href="http://localhost:4000/rilis/events/">Special Event</a></li>
                     
                   </ul>
 
@@ -343,56 +312,11 @@
 
           
           
-
-            
-            
-
-              <li class="has-dropdown">
-                <a href="http://localhost:4000/feeling-responsive/documentation/">Documentation</a>
-
-                  <ul class="dropdown">
-                    
-
-                      
-
-                      <li><a href="http://localhost:4000/feeling-responsive/changelog/">Changelog</a></li>
-                    
-
-                      
-
-                      <li><a href="http://localhost:4000/feeling-responsive/roadmap/">Roadmap</a></li>
-                    
-                  </ul>
-
-              </li>
-              <li class="divider"></li>
-            
-          
         
 
               
 
           
-          
-
-            
-            
-
-              <li class="has-dropdown">
-                <a href="http://localhost:4000/feeling-responsive/blog/">Blog</a>
-
-                  <ul class="dropdown">
-                    
-
-                      
-
-                      <li><a href="http://localhost:4000/feeling-responsive/blog/archive/">Blog Archive</a></li>
-                    
-                  </ul>
-
-              </li>
-              <li class="divider"></li>
-            
           
         
 
@@ -418,8 +342,8 @@
 <div id="masthead-no-image-header">
 	<div class="row">
 		<div class="small-12 columns">
-			<a id="logo" href="http://localhost:4000" title="Feeling Responsive – A Flexible Theme for Jekyll">
-				<img src="http://localhost:4000/feeling-responsive/assets/img/logo.png" alt="Feeling Responsive – A Flexible Theme for Jekyll">
+			<a id="logo" href="http://localhost:4000" title="Siwabessy Initiative – Teknologi Nuklir untuk Kesejahteraan Masyarakat Indonesia">
+				<img src="http://localhost:4000/assets/img/logo.png" alt="Siwabessy Initiative – Teknologi Nuklir untuk Kesejahteraan Masyarakat Indonesia">
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
@@ -493,11 +417,11 @@
       <div id="footer">
         <div class="row">
           <div class="medium-6 large-5 columns">
-            <h5 class="shadow-black">About This Site</h5>
+            <h5 class="shadow-black">Tentang situs ini</h5>
 
             <p class="shadow-black">
-              »Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.
-              <a href="http://localhost:4000/feeling-responsive/info/">More ›</a>
+              Kami meyakini bahwa teknologi nuklir akan membantu meningkatkan kesejahteraan masyarakat Indonesia melalui penyediaan lapangan kerja, sumber energi bersih, dan peningkatan kompetensi sumber daya manusia di Indonesia
+              <a href="http://localhost:4000/info/">Lebih Banyak ›</a>
             </p>
           </div><!-- /.large-6.columns -->
 
@@ -521,27 +445,27 @@
               
                 
                   <li >
-                    <a href="http://localhost:4000/feeling-responsive"  title=""></a>
+                    <a href="http://localhost:4000"  title=""></a>
                   </li>
               
                 
                   <li >
-                    <a href="http://localhost:4000/feeling-responsive/contact/"  title="Contact">Contact</a>
+                    <a href="http://localhost:4000/contact/"  title="Contact">Contact</a>
                   </li>
               
                 
                   <li >
-                    <a href="http://localhost:4000/feeling-responsive/feed.xml"  title="Subscribe to RSS Feed">RSS</a>
+                    <a href="http://localhost:4000/feed.xml"  title="Subscribe to RSS Feed">RSS</a>
                   </li>
               
                 
                   <li >
-                    <a href="http://localhost:4000/feeling-responsive/atom.xml"  title="Subscribe to Atom Feed">Atom</a>
+                    <a href="http://localhost:4000/atom.xml"  title="Subscribe to Atom Feed">Atom</a>
                   </li>
               
                 
                   <li >
-                    <a href="http://localhost:4000/feeling-responsive/sitemap.xml"  title="Sitemap for Google Webmaster Tools">sitemap.xml</a>
+                    <a href="http://localhost:4000/sitemap.xml"  title="Sitemap for Google Webmaster Tools">sitemap.xml</a>
                   </li>
               
               </ul>
@@ -567,7 +491,7 @@
             
               
                 <li >
-                  <a href="http://localhost:4000/feeling-responsive"  title=""></a>
+                  <a href="http://localhost:4000"  title=""></a>
                 </li>
             
               
@@ -600,7 +524,7 @@
       <div id="subfooter">
         <nav class="row">
           <section id="subfooter-left" class="small-12 medium-6 columns credits">
-            <p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>
+            Dibuat oleh by <a href="https://siwabessyinitiative.github.io/">Siwabessy Initiative</a>
           </section>
 
           <section id="subfooter-right" class="small-12 medium-6 columns">
@@ -625,25 +549,13 @@
 		
 
 
-<script src="http://localhost:4000/feeling-responsive/assets/js/javascript.min.js"></script>
+<script src="http://localhost:4000/assets/js/javascript.min.js"></script>
 
 
 
 
 
 
-
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-60112281-1', 'auto');
-  ga('set', 'anonymizeIp', true);
-  ga('send', 'pageview');
-
-</script>
 
 
 
