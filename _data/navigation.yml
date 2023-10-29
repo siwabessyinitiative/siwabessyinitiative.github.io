@@ -3,7 +3,7 @@
   side: left
 
 - title: Wiki Nuklir
-  url: "/getting-started/"
+  url: "/wiki/"
   side: left
   dropdown:
   - title: "Pengenalan Dasar nuklir"

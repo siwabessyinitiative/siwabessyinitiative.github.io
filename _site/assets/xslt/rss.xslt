@@ -209,7 +209,7 @@
             
 
               <li class="has-dropdown">
-                <a href="http://localhost:4000/getting-started/">Wiki Nuklir</a>
+                <a href="http://localhost:4000/wiki/">Wiki Nuklir</a>
 
                   <ul class="dropdown">
                     
